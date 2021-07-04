@@ -1,0 +1,46 @@
+/* font-family: 'Otomanopee One', sans-serif;
+font-family: 'Poppins', sans-serif; */
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+}
+.purple-color{
+    color: #FF3685;
+}
+.flexibility{
+    display: flex;
+    margin-right: 2%;
+}
+.flexibility p{
+    text-align: justify;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+    background-position: right;
+}
+.half-width span{
+    color: #FF3685;
+    font-weight: 900;
+}
+.half-width img{
+    width: 90%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#FF3685, blue);
+    color: white;
+    font-weight: 500;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.top-img{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
